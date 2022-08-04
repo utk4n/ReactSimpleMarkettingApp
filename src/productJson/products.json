@@ -1,0 +1,40 @@
+[{
+    "id": 1,
+    "name": "Kitap",
+    "price" : 1
+},
+{
+    "id": 2,
+    "name": "Defter",
+    "price" : 2
+},
+{
+    "id": 3,
+    "name": "Kalem",
+    "price" : 1
+},
+{
+    "id": 4,
+    "name": "Silgi",
+    "price" : 0.5
+},
+{
+    "id": 5,
+    "name": "Uç",
+    "price" : 0.5
+},
+{
+    "id": 6,
+    "name": "Cetvel",
+    "price" : 5
+},
+{
+    "id": 7,
+    "name": "Çanta",
+    "price" : 10
+},
+{
+    "id": 8,
+    "name": "Araba",
+    "price" : 1000
+}]
